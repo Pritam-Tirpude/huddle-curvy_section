@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Base Apparel Challenge Solution](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/html-css-sass-flexbox-itX91R8lf)
-- Live Site URL: [Live Site](https://base-apparel-site.netlify.app/)
+- Solution URL: [Huddle Curvy Section Solution](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2/hub/html5-css3-sass-flexbox-e3kh0zOdu)
+- Live Site URL: [Live Site](https://huddle-curvy-site.netlify.app/)
 
 ## My process
 
