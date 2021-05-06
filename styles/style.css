@@ -14,6 +14,7 @@ html {
 body {
   min-height: 100vh;
   font-family: "Open Sans", sans-serif;
+  overflow-x: hidden;
 }
 
 .main-header {
@@ -208,7 +209,6 @@ main {
 }
 
 .grow-together {
-  width: -100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

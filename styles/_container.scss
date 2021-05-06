@@ -121,7 +121,6 @@ main {
 }
 
 .grow-together {
-  width: -100%;
   @include flex(center, center, row);
   background: $neutral_very_pale_blue;
   padding: 5rem;
